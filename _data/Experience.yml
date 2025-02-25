@@ -1,0 +1,25 @@
+subject: Professional Experiences
+listing-order: 1
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: AI Transformation in customer service and product utilizing a Large Language Model
+    role: Senior Vice President, Tech Lead of KT AI Bussiness Unit
+    description:
+        - Cloud-based AI Contact Center, Commerce, Advertising, and AI Assistant over Intelligent Network
+    
+  - title: R&D Head of Large AI, NLP, Conversational AI, Big Data, and Recommandation
+    role: Vice President, KT Converged Research Laboratories
+    description:
+      - Project Head of Large AI **Mi:dm**, AI Assistant **Giga-Genie**, AICC **ACen Cloud**
+      - Development Leader of Spoken Dialogue System, Sementaic Search, Personalized Curation of IPTV **Ginie TV**
+  
+  - title: Question Answering, Knowledge Mining, Reasoning, and Fundamental NLP Core Technologies
+    role: PhD in Computer Science, KAIST & Semantic Web Research Center
+    description:
+       - Causality Mining, Knowledge based Question Answering, Semantic Web **CoreNet**
+
+  - title: Statistical NLP & Spoken Language Technologies
+    role: MA in Computer Science, KAIST & Research Scientist in Korea Telecom
+    description:
+      - Korean Morphological & Syntactic Aanlysis, POS Tagger **KTS**
+      - Spoken Language Modeling, Text-to-Speech System **Hansori**, Speech Translation System

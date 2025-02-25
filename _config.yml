@@ -1,0 +1,36 @@
+title: Du-Seong Chang
+#profile_img: /assets/img/profile.webp
+profile_img: /assets/img/PF-dschang4.jpg
+icon_img: /assets/img/icon.webp
+
+name: "Du-Seong Chang"
+job: "Associate Professor, Dept. of Artificial Intelligence, Sogang Univ."
+
+# phone_number: 012-345-6789
+address: TE512 Sogang Univ. Seoul, Korea
+email: duseong.chang AT gmail.com
+linkedin_username: duseongchang
+# github_username: github
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
+# youtube_username: youtube
+blog_url: https://duseongchang.github.io/
+scholor_url: https://scholar.google.co.kr/citations?user=y1HTwWAAAAAJ&sortby=pubdate
+
+# Added by dschang
+theme: jekyll-professional-resume
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+baseurl:
+
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

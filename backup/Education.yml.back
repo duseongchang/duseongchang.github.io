@@ -1,0 +1,14 @@
+subject: Education
+listing-order: 2
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: KAIST, PhD in Computer Science
+    description:
+      - Natural Language Processing, Question Answering
+      - Causality Mining & Reasoning
+    date: Mar. 2000 - Aug. 2005
+  - title: KAIST, MA in Computer Science
+    description:
+      - Statictical Machine Translation
+      - Korean Morphological & Syntactic Analysis
+    date: Mar. 1991 - Feb. 1993 
