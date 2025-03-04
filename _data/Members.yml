@@ -1,7 +1,8 @@
 subject: Members
 listing-order: 4
 icon: "/assets/img/globe.svg"
-contents:
+contents: 
   - title: "Natural Language Processing & ISDS Lab"
-    ref:회사와 학교가 여러분에게 줄 수 있는 가장 큰 복지는 같은 방향을 보고 논의할 수 있는 동료의 존재입니다.
+    ref: 
+    - "회사와 학교가 여러분에게 줄 수 있는 가장 큰 복지는 같은 방향을 보고 논의할 수 있는 동료의 존재입니다."
     - "[members](https://isds.sogang.ac.kr/page/members)"
