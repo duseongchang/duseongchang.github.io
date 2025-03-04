@@ -1,6 +1,6 @@
 subject: Members
 listing-order: 4
-icon: "/assets/img/flask.svg"
+icon: "/assets/img/globe.svg"
 contents:
   - title: "Natural Language Processing & ISDS Lab"
     ref:
