@@ -14,6 +14,8 @@ contents:
     description:
       - "**\"생성형 AI의 사회/윤리성 향상 연구개발\" 국책과제 (공동연구 책임자, 3년, Mar. 2024 – 2026)**"
       - "IITP/NIA \"초거대AI 윤리/유용성 평가 데이터 구축\" 국책과제 (자문위원, Jul. 2023 – Jan. 2024)"
+      - "ACL2025, \"Evaluating Visual and Cultural Interpretation: The K-Viscuit Benchmark with Human-VLM Collaboration\""
+   
 
   - title: "Multi Agentic AI / Large AI Transformation"
     role: "생성형 AI에 기반한 에이전트 기술은 단순한 하나의 단일 모델에서 벗어나 여러 단계의 수행 계획을 스스로 수립하고 실생활의 여러 도구를 사용하여 확보된 정보와 주변 에이전트간의 협력에 기반하여 결과물을 도출하고, 이에 기반한 실세계의 행동을 수행하는 멀티 에이전트 기술로 진화되고 있습니다. 에이전트에 기반한 서비스 모델링 기술은 기존의 금융, 공공, 행정, 법률 등 다양한 영역에서 기존 서비스를 혁신하고 있으며, 화자인식, 음성메모, 상담분류/요약, 상담대화, 추천, 질의응답 등의 결합으로 AI기반 Contact Center, 통화비서, 문자광고/커머스 등과 같은 새로운 사업 형상이 등장하고 있습니다. Large AI Transformation의 영역은 교육, 농업, 해양관제 등 다양한 영역으로 확대 예정입니다."
@@ -27,9 +29,10 @@ contents:
   - title: Large AI Enabling Core Technology
     role: 10여 개 산/학/연 공동개발 프로젝트를 통해 효율적인 Large AI 학습/추론 알고리즘, 경량화 학습, 데이터 증강기술, 한국어 명령어 학습, 강화학습 알고리즘 등의 한국형 Large AI기술을 선도 개발하였으며, 기가지니, AICC, 지니TV 등의 사업에 적용하고, 바우처 사업과 AI모델 공개로 국가 Large AI Eco 확산에도 기여하고 있습니다.
     description:
-      - "한국형 초거대AI기술 선도연구 \"초거대AI 믿:음 개발\" (연구책임자, 2019 - 2024)"
-#      – "Large AI 기반 AX Projects \"기가지니 의도해석/감성채팅\"(2022), AICC 상담요약(2023), 지니TV 큐레이션(2023)"
-#      - "\"AI One Team 공동 연구\" (공동연구 책임자, 3년, Feb. 2020 - Jan. 2023)"
+      - "한국형 초거대AI기술 선도연구 \"초거대AI 믿:음 개발\" 연구책임자, (2019 - 2024)"
+      - "Large AI 기반 AX Projects, 기가지니(2021), AICC(2022), 지니TV 큐레이션(2023) 연구책임자"
+#      - "\"AI One Team 공동 연구\" (공동연구 책임자, 2020 - 2023)"
+      - "AAAI2025, RILQ: Rank-Insensitive LoRA-based Quantization Error Compensation for Boosting 2-bit Large Language Model Accuracy"
       - "EMNLP2024, Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters"
       - "ACL2024, Improving Conversational Abilities of Quantized LLMs via Direct Preference Alignment"
       - "ASPLOS2024, Exegpt: Constraint-aware resource scheduling for llm inference"
