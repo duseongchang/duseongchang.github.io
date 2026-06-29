@@ -6,6 +6,9 @@ contents:
     ref:
 #      - "[1] **M. Yankovich**, L. Hernández, M. Roveri, “[A symmetric encryption method with biometric authorization for constrained environments](https://scholar.google.com/),” *Cryptography*, vol. x, no. x, pp. xxx–xxx, 202x."
 #      - "[2] **M. Yankovich**, F. Arute, G. Persiano, G. Segev, “[Authorized public-key search on iiot applications](https://scholar.google.com/),” *IEEE Transactions on Information Forensics and Security*, pp. xxx–xxx, 202x."
+    - "HB Park, DS Chang, \"Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO\", submitted to CoLM2026"
+    - "HJ Yoo, Y Shin, IS Lee, MW Koo, DS Chang, \"Omni-Embed-Audio: Leveraging Multimodal LLMs for Robust Audio-Text Retrieval\", ACL2026"
+    - "TY Jeong, IS Lee, DS Chang, MW Koo, \"Cross-lingual Retrieval-Augmented Classification for Dysarthria Severity Assessment\", interspeech2026"
     - "GY Baek, CH Park, J Kim, YJ Heo, DS Chang, J Choo, \"Evaluating Visual and Cultural Interpretation: The K-Viscuit Benchmark with Human-VLM Collaboration\", ACL2025"
     - "G Lee, J Lee, S Hong, M Kim, E Ahn, DS Chang, J Choi, \"RILQ: Rank-Insensitive LoRA-based Quantization Error Compensation for Boosting 2-bit Large Language Model Accuracy\", AAAI2025"
     - "HS Yoon, E Yoon, JTJ Tee, K Zhang, YJ Heo, DS Chang, CD Yoo, \"BI-MDRG: Bridging Image History in Multimodal Dialogue Response Generation\", ECCV2024"
