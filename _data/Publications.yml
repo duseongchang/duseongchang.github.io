@@ -1,12 +1,13 @@
 subject: Publications
-listing-order: 3
+listing-order: 4
 icon: "/assets/img/flask.svg"
 contents:
   - title: "International Journal & Conference"
     ref:
 #      - "[1] **M. Yankovich**, L. Hernández, M. Roveri, “[A symmetric encryption method with biometric authorization for constrained environments](https://scholar.google.com/),” *Cryptography*, vol. x, no. x, pp. xxx–xxx, 202x."
 #      - "[2] **M. Yankovich**, F. Arute, G. Persiano, G. Segev, “[Authorized public-key search on iiot applications](https://scholar.google.com/),” *IEEE Transactions on Information Forensics and Security*, pp. xxx–xxx, 202x."
-    - "HB Park, DS Chang, \"Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO\", submitted to CoLM2026"
+    - "HB Park, KH Song, SM Lee, DS Chang, \"Persistent Teacher Anchoring for Tool-Using Agents\", EMNLP2026"
+    - "HB Park, DS Chang, \"Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO\", CoLM2026"
     - "HJ Yoo, Y Shin, IS Lee, MW Koo, DS Chang, \"Omni-Embed-Audio: Leveraging Multimodal LLMs for Robust Audio-Text Retrieval\", ACL2026"
     - "TY Jeong, IS Lee, DS Chang, MW Koo, \"Cross-lingual Retrieval-Augmented Classification for Dysarthria Severity Assessment\", interspeech2026"
     - "GY Baek, CH Park, J Kim, YJ Heo, DS Chang, J Choo, \"Evaluating Visual and Cultural Interpretation: The K-Viscuit Benchmark with Human-VLM Collaboration\", ACL2025"

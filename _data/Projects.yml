@@ -1,19 +1,23 @@
 subject: Research Interest & Projects
-listing-order: 2
+listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "Enhanced Reasoning in Multimodal Large AI"
     rols: "생성형AI의 근간인 AI파운데이션 모델의 학습 및 추론 기술을 연구합니다. Large AI가 문제의 해결을 위한 연쇄적인 추론 과정을 배우는 것은 실제 AI의 추론 성능을 향상시키며, 응답 결과가 어떠한 근거에서 도출되었는지를 설명할 수 있는 근거가 됩니다. Large AI가 추론 과정에서 타깃 영역별 지식정보, 신뢰도, 설명가능성을 이용하여 최적의 경로를 선택한다면, 전문가 수준의 높은 추론 능력을 확보할 수 있습니다. 이러한 여러 자원을 이용한 향상된 AI 추론 방법론을 개발하여 한국어 Large AI의 성능을 높이고, 전문가 영역에서 의사결정을 지원할 수 있는 수준의 추론능력을 얻을 수 있도록 기술을 확대 개발하고 있습니다. Large AI 모델은 LLM과 LVLM/LALM의 Video/Audio grounding을 포함하고, 실제 환경에서의 behavior 생성을 위한 VLA, 월드모델로의 확대가 진행되고 있습니다. 이러한 파운데이션 모델의 성공을 위해서는 여러 단계별 학습 기법과 함께 시물레이션 및 실제 환경과의 interaction을 통한 강화학습 및 최적화 기법이 핵심입니다."
     description:
       - "**\"[국가대표 K-AI] 글로벌 프런티어 파운데이션 모델 개발 및 국내 AI 혁신 생태계 조성 프로젝트\" (공동연구 책임자, 2025 - 2027)**"
-      - "**\"대화 기반 설명가능성을 멀티모달로 제공하는 인공지능 기술 개발\" 국책과제 (2022 - 2026)**"
-      - "한국형 초거대AI기술 선도연구 \"초거대AI 믿:음 개발\" 연구책임자, (2019 - 2024)"
-      - "Preprint, 2026, Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO"
+      - "**\"[AX대학원] 인공지능 융합 혁신 인재 양성 사업\" (2026 - 2031)**"
+      - "**\"대화 기반 설명가능성을 멀티모달로 제공하는 인공지능 기술 개발\" (2022 - 2026)**"
+      - "한국형 초거대AI기술 선도연구 \"초거대AI 믿:음 개발\" (연구책임자, 2019 - 2024)"
+      - "Preprint, StreamWeave: Reconciling Off-Policy Expert Supervision with Fully
+Asynchronous Policy Learning"
+      - "EMNLP2026, Persistent Teacher Anchoring for Tool-Using Agents"
+      - "CoLM2026, Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO"
       - "NeurIPS2024, How Do Large Language Models Acquire Factual Knowledge During Pretraining?"
       - "ACL2024, Improving Conversational Abilities of Quantized LLMs via Direct Preference Alignment"
-      - "ASPLOS2024, Exegpt: Constraint-aware resource scheduling for llm inference"
-      - "ECCV2024, \"BI-MDRG: Bridging Image History in Multimodal Dialogue Response Generation\""
-      - "EMNLP2023, NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder LMs"
+#      - "ASPLOS2024, Exegpt: Constraint-aware resource scheduling for llm inference"
+#      - "ECCV2024, \"BI-MDRG: Bridging Image History in Multimodal Dialogue Response Generation\""
+#      - "EMNLP2023, NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder LMs"
       - "정보과학회지, Large AI to Everywhere, 초거대 AI 믿:음"
 
   - title: "Vertical AI Transformation / Agentic AI Adaptation"
@@ -22,18 +26,24 @@ contents:
       - "**\"[생성AI 선도인재양성사업] 멀티모달 AI 에이전트 시대에 적합한 실무형 AI인재 육성\" (공동연구책임자, 2025 - 2028)**"
       - "**\"멀티 에이전트에 기반한 농작물 멀티모달 질의응답 시스템 개발\" (연구책임자, 2025)**"
       - "Large AI 기반 AX Projects, 기가지니(2021), AICC(2022), 지니TV 큐레이션(2023) 연구책임자"
-      - "Large AI 기반의 AI전화 Assistant(통화비서), AI문자광고 카피라이터, ACen Cloud"
+#      - "Large AI 기반의 AI전화 Assistant(통화비서), AI문자광고 카피라이터, ACen Cloud"
+      - "Preprint, \"VGM-QA: Multi-Hop Visual Document Question Answering with Step-Level
+Evidence Grounding\""
+      - "Preprint, \"WAVES: Waveform-Assisted Video-to-Editable Stems for Visual-Only Multitrack Audio Generation\""
+      - "Preprint, \"ACMAudio: Navigating Reference-Induced Desynchronization in Audio-Conditioned Video-to-Audio Generation\""
       - "ACL2026, \"Omni-Embed-Audio: Leveraging Multimodal LLMs for Robust Audio-Text Retrieval\""
       - "AAAI2025, RILQ: Rank-Insensitive LoRA-based Quantization Error Compensation for Boosting 2-bit Large Language Model Accuracy"
       - "EMNLP2024, Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters"
       - "AAAI2024, \"Structure-Aware Multimodal Sequential Learning for Visual Dialog\""
-      - "NeurIPS2023, Token-scaled logit distillation for ternary weight generative language models"
+#      - "NeurIPS2023, Token-scaled logit distillation for ternary weight generative language models"
 
   - title: "AI Alignment / Responsible AI"
     role: "바람직한 AI 모델은 인간의 의지와 정렬된 행동을 하여 사용성이 높고, 사회/윤리성을 가진 행동을 하며, 사실에 기반한 공정한 응답을 할 수 있어야 합니다. AI를 이러한 방향으로 학습하기 위한 AI Alignment기술을 개발하고 한국어 Large AI모델에 선도 적용하고 있습니다. 기술 확대를 위해 인지/사회/언어학계 및 여러 초거대AI 사업체들과 함께 컨소시엄을 이루어 협의하고 요소 기술을 개발하고 있으며, AI평가체계를 마련하고 공개하여 국가 기술 발전에 기여하고 있습니다."
     description:
       - "**\"생성형 AI의 사회/윤리성 향상 연구개발\" 국책과제 (공동연구 책임자, 2024 – 2026)**"
       - "IITP/NIA \"초거대AI 윤리/유용성 평가 데이터 구축\" 국책과제 (자문위원, 2023 – 2024)"
+      - "Preprint, \"VLM-CCA: A Multidimensional Benchmark and Scalable Data Generation
+Framework for Cultural Context Awareness in Large Vision-Language Models\""
       - "ACL2025, \"Evaluating Visual and Cultural Interpretation: The K-Viscuit Benchmark with Human-VLM Collaboration\""
 
   - title: "Natural Language Processing & Conversational AI"
@@ -54,12 +64,12 @@ contents:
 #      - "AAAI08, Symbolic Heuristic Search Value Iteration for Factored POMDPs"
       - "정보과학회지, \"지능형 대화비서: GiGA Genie Assistant\""
 
-  - title: Personalized Recommandation & Curation
-    role: 대규모 상용 로그를 실시간 분석하는 딥러닝 개인화 추천 기술 개발, 국내 최초 개인화 큐레이션 사업화
-    description:
-      - "국내 최대 미디어 셋탑박스인 지니TV에 시맨틱검색 및 개인화된 편성(큐레이션) 사업화 (2015)"
-      - "한국콘텐츠학회 논문지, \"감성 정보 기반 맞춤형 미디어콘텐츠 큐레이션 시스템 개발\""
-
+#  - title: Personalized Recommandation & Curation
+#    role: 대규모 상용 로그를 실시간 분석하는 딥러닝 개인화 추천 기술 개발, 국내 최초 개인화 큐레이션 사업화
+#    description:
+#      - "국내 최대 미디어 셋탑박스인 지니TV에 시맨틱검색 및 개인화된 편성(큐레이션) 사업화 (2015)"
+#      - "한국콘텐츠학회 논문지, \"감성 정보 기반 맞춤형 미디어콘텐츠 큐레이션 시스템 개발\""
+#
 #  - title: Spoken Language PROCESSING
 #    description:
 #      - "한국어 음성기술 고도화, End-to-End 한국어 음성인식, Multi-speaker Decoder기반 음성 복제 기술 개발(2022)"

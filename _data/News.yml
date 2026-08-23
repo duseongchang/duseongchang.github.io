@@ -1,0 +1,12 @@
+subject: News
+listing-order: 1
+icon: "/assets/img/trophy.svg"
+contents:
+  - title:
+    description:
+    - "Our paper, \"Persistent Teacher Anchoring for Tool-Using Agents\" has been accepted to EMNLP2026."
+    - "HJ Yoo has been selected as an \"AI Innovation Talent\" by IITP (Jul 2026)."
+    - "Our paper, \"Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO\" has been accepted to CoLM2026."
+    - "Our lab has received the \"Academic Contribution Award\" at KCC 2026, hosted by the Korean Institute of Information Scientists and Engineers (KIISE) (Jun 2026).
+    - "Our paper, \"Omni-Embed-Audio: Leveraging Multimodal LLMs for Robust Audio-Text Retrieval\" has been accepted to ACL2026."
+    - "Our research team has received the \"Albatross Academic Award\", presented by the Sogang University Alumni Association. (Jan. 2026)
