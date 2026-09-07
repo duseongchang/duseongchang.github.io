@@ -2,6 +2,12 @@ subject: Professional Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
+  - title: Enhanced Reasoning in Large AI Foundation Model
+    role: Associate Professor, NLP&ISDS Lab leader at Sogang University, School of Computing (AI)
+    description:
+      - PI of K-AI Foundation Model Project, Agentic RL, Cultural Context Awareness
+      - PI of Multimodal Understanding based Action/Audio Generation, Physical AI
+    
   - title: AI Transformation in customer service and product utilizing a Large Language Model
     role: Senior Vice President, Tech Lead of KT AI Bussiness Unit
     description:
