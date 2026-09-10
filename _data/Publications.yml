@@ -4,8 +4,7 @@ icon: "/assets/img/flask.svg"
 contents:
   - title: "International Journal & Conference"
     ref:
-#      - "[1] **M. Yankovich**, L. Hernández, M. Roveri, “[A symmetric encryption method with biometric authorization for constrained environments](https://scholar.google.com/),” *Cryptography*, vol. x, no. x, pp. xxx–xxx, 202x."
-#      - "[2] **M. Yankovich**, F. Arute, G. Persiano, G. Segev, “[Authorized public-key search on iiot applications](https://scholar.google.com/),” *IEEE Transactions on Information Forensics and Security*, pp. xxx–xxx, 202x."
+    - "JM Woo, KM Kong, BG Jeong, MJ Kim, HJ Yoo, DS Chang, \"CORA: A Protocol for Diagnosing Boundary Robustness in Text-to-Audio Retrieval under Query Reformulations\", AACL-IJCNLP2026 findings"
     - "HB Park, KH Song, SM Lee, DS Chang, \"Persistent Teacher Anchoring for Tool-Using Agents\", EMNLP2026"
     - "HB Park, DS Chang, \"Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO\", CoLM2026"
     - "HJ Yoo, Y Shin, IS Lee, MW Koo, DS Chang, \"Omni-Embed-Audio: Leveraging Multimodal LLMs for Robust Audio-Text Retrieval\", ACL2026"
