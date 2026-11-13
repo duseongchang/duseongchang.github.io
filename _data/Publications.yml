@@ -4,6 +4,8 @@ icon: "/assets/img/flask.svg"
 contents:
   - title: "International Journal & Conference"
     ref:
+    - "IS Lee, TY Jeong, HJ Yoo, MW Koo, DS Chang, \"CAF-Score: Calibrating CLAP with LALMs for Reference-free Audio-Text Alignment Evaluation\", EACL2027"
+    - "HJ Yoo, MW Koo, DS Chang, \"What Sounds Are Actually There? Source-Level Counterfactual Evaluation for Audio-Visual Editing Inventories\", WACV2027 Workshop UniMUG"
     - "JM Woo, KM Kong, BG Jeong, MJ Kim, HJ Yoo, DS Chang, \"CORA: A Protocol for Diagnosing Boundary Robustness in Text-to-Audio Retrieval under Query Reformulations\", AACL-IJCNLP2026 findings"
     - "HB Park, KH Song, SM Lee, DS Chang, \"Persistent Teacher Anchoring for Tool-Using Agents\", EMNLP2026"
     - "HB Park, DS Chang, \"Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO\", CoLM2026"
